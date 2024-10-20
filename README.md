@@ -17,13 +17,13 @@ Each day, I will tackle a new challenge and create a fully functional Python pro
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/new-day-new-python-project.git
-    cd new-day-new-python-project
+    git clone https://github.com/UserAAR/PythonProjects365.git
+    cd PythonProjects365
     ```
 
 2. Navigate to the project folder of your choice:
     ```bash
-    cd Project_Name
+    cd PythonProjects365
     ```
 
 3. Install any necessary dependencies using the provided `requirements.txt`:
