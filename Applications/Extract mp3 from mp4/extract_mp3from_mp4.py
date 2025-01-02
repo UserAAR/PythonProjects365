@@ -7,7 +7,6 @@ global open_file_path
 global save_file_path
 
 # to get file path of video file.//
-
 def fileopen():
     global open_file_path
     open_file_path = askopenfilename(
