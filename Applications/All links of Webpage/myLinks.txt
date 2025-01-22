@@ -1,0 +1,1 @@
+['#', '#home', '#about', '#skills', '#services', '#portfolio', '#contact', 'https://www.linkedin.com/in/aar-amil/', 'https://www.instagram.com/abdullayeff.ar', 'https://www.github.com/UserAAR']
