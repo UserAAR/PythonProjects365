@@ -1,7 +1,7 @@
 import moviepy
 import moviepy.editor
 import tkinter as tk
-from tkinter.filedialog import askopenfilename ,asksaveasfilename  # file dialog to get video and audio file paths.
+from tkinter.filedialog import askopenfilename ,asksaveasfilename
 
 global open_file_path
 global save_file_path
